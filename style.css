@@ -1,0 +1,37 @@
+body {
+    background-color:rgb(169,234,254);
+    
+}
+
+header {
+    background-color:rgb(27,1,155);
+    padding: 10px;
+    text-align: center;
+
+}
+
+.container {
+    background-color: rgb(27,1,155);
+    padding: 20px;
+    border-radius: 10px; /* Coins arrondis */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 100px; 
+}
+
+form{
+    text-align: center;
+}
+
+footer {
+    background-color:rgb(27,1,155);
+    padding: 10px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+h6{
+    text-align: center;
+    font-size: 40px;
+}
